@@ -1,4 +1,4 @@
-# Calibre vimstyle
+# Calibre VimStyle
 A Calibre plugin providing vim style navigation
 
 ## Build
